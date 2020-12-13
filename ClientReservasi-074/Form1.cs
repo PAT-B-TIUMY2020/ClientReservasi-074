@@ -105,5 +105,10 @@ namespace ClientReservasi_074
 
             textBoxID.Enabled = false;
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
